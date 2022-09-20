@@ -1,8 +1,11 @@
 ## 功能介绍 
-随着小程序的发展，家政服务小程序的出现，为家政行业带来了新的商机。家政服务平台系统包含家用电器安装清洗、搬家、家电维修、管道疏通、月嫂保姆、育儿陪护、上门开锁等多种服务项目，用户可以直接通过家政小程序咨询，在线预约服务类型，同时还设置有知识科普，给用户科普一些清洁保养小技巧，让用户能够足不出户就可以直接预约服务，方便又快捷。 采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
+家政预约小程序：用户可以通过微信进入小程序，从而获得相应的家政服务，并且可以通过小程序查看到该家政公司所有的服务项目，可以帮助用户解决全面的家政服务需求。对商家而言：商家通过家政小程序可以获得用户预约订单，为用户提供准确、快捷的上门家政服务。并且也可以通过小程序推广品牌形象。
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
- 
+- 1、预约管理：为了更好地服务用户，家政小程序需要提供直接的预约服务，包括服务项目，服务人员等等。用户可以根据自己需求，预约不同的服务项目和服务人员。
+- 2、服务评价：当用户通过小程序下单以后，可以通过小程序的评价功能对服务项目、服务人员进行评价。新用户也可以通过评价功能了解到该公司的服务质量，从而促使成交。
+- 3、会员管理：提供相应的会员系统，加入会员之后的用户可以享受更多的权益，获取更加多的服务。
+ ![image](https://user-images.githubusercontent.com/113954466/191169309-5243776f-f6ee-47b8-a6d3-4f4711b2b743.png)
+
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -10,18 +13,13 @@
 - 小程序本身的即用即走，适合小工具的使用场景，也适合快速开发迭代。
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
-
-
-
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信:
- ![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+ 
 
 
 
 ## 演示
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ ![image](https://user-images.githubusercontent.com/113954466/191169312-509020d3-1258-408e-bf2e-cd3868796d6c.png)
+
  
 
 ## 安装
@@ -33,26 +31,29 @@
 
 ## 截图
 
- ![输入图片说明](demo/%E9%A6%96%E9%A1%B5.png)
+ ![image](https://user-images.githubusercontent.com/113954466/191169317-6f220221-c3b7-4e7b-8556-f9683a417c12.png)
+![image](https://user-images.githubusercontent.com/113954466/191169325-8c567b73-88f9-401c-8e1c-2bbe9f32c622.png)
+![image](https://user-images.githubusercontent.com/113954466/191169332-020e089a-76d7-4ec0-839a-8110beb0ebcc.png)
+![image](https://user-images.githubusercontent.com/113954466/191169340-abdd3c35-ea6d-4e1d-b940-0f1ea4bfcd72.png)
+![image](https://user-images.githubusercontent.com/113954466/191169344-842952a2-3d8f-4867-bba4-ed5213812e60.png)
+![image](https://user-images.githubusercontent.com/113954466/191169348-eee0cc0e-d4fd-4f84-9648-659d9648570a.png)
+![image](https://user-images.githubusercontent.com/113954466/191169351-80ed7f5d-7c2a-4661-801f-5ecfd76670ea.png)
+![image](https://user-images.githubusercontent.com/113954466/191169356-76412551-d03b-43a6-b02a-339c42653ae1.png)
+![image](https://user-images.githubusercontent.com/113954466/191169365-3f2c660c-0e2d-4de9-9375-8533b82213a1.png)
+![image](https://user-images.githubusercontent.com/113954466/191169374-fc5a61e2-26b5-4431-ac8a-c9e893d074d6.png)
+![image](https://user-images.githubusercontent.com/113954466/191169384-c434fcdd-09e7-4841-b463-6038828c0195.png)
 
-![输入图片说明](demo/%E7%BB%B4%E4%BF%AE.png)
-![输入图片说明](demo/%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/%E6%88%91%E7%9A%84%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-
-![输入图片说明](demo/%E5%B0%8F%E9%BB%91%E6%9D%BF.png)
-![输入图片说明](demo/%E6%9C%8D%E5%8A%A1%E4%BB%8B%E7%BB%8D.png)
-![输入图片说明](demo/%E4%BF%9D%E5%A7%86.png)
-![输入图片说明](demo/%E4%BF%9D%E6%B4%81%E6%B8%85%E6%B4%97.png)
-![输入图片说明](demo/%E6%90%AC%E5%AE%B6.png)
 
 ## 后台管理系统截图
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%97%B6%E6%AE%B5%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0--%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E5%86%85%E5%AE%B9.png)
+ 
+ ![image](https://user-images.githubusercontent.com/113954466/191169389-d73778b7-18fc-442c-98d5-1cba8e64d5b3.png)
+![image](https://user-images.githubusercontent.com/113954466/191169402-bc490e21-7538-4c0e-9186-4c70663c4b94.png)
+![image](https://user-images.githubusercontent.com/113954466/191169407-b7a4c243-8968-4278-80d0-4a6f51f92263.png)
+![image](https://user-images.githubusercontent.com/113954466/191169411-b941958b-7092-4e5c-bd16-e8271ba8592f.png)
+![image](https://user-images.githubusercontent.com/113954466/191169420-02efc2f1-9329-442d-b06f-35c12d34fae6.png)
+![image](https://user-images.githubusercontent.com/113954466/191169433-feb9b3bf-1091-4039-b47e-fac8689472f8.png)
+
+ ![image](https://user-images.githubusercontent.com/113954466/191169439-46dd3e76-9b29-463e-984b-7854d6324400.png)
+
+ 
+ 
